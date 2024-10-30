@@ -1,0 +1,10 @@
+{
+	"name": "mdt-google-news",
+	"description": "Generate Google News feeds",
+	"homepage": "https://wordpress.org/plugins/mdt-google-news/",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0+",
+	"support": {
+		"forum": "https://wordpress.org/support/plugin/mdt-google-news"
+	}
+}
